@@ -59,6 +59,9 @@ I work across the full stack with React, Node.js, Express.js, FastAPI, PostgreSQ
 
 <div align="center">
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Imohalfreddev&show_icons=true&theme=github_dark&hide_border=true&title_color=0969da&icon_color=0969da&text_color=c9d1d9&bg_color=0d1117&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imohalfreddev&layout=compact&theme=github_dark&hide_border=true&title_color=0969da&text_color=c9d1d9&bg_color=0d1117" />
+
 <img src="https://streak-stats.demolab.com?user=Imohalfreddev&theme=github-dark-blue&hide_border=true&stroke=0969da&ring=0969da&fire=0969da&currStreakLabel=0969da&background=0d1117&sideLabels=c9d1d9&dates=8b949e" />
 
 </div>
