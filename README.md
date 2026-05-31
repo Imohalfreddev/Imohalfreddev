@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0969da&height=200&section=header&text=Alfred%20Imoh&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=22&descAlignY=58&descColor=a5c8ff" width="100%" />
 
-### `$ whoami` → Full Stack Developer · Self-Taught · End-to-End · Open to Work
+### `$ who am i` → Full Stack Developer · Self-Taught · End-to-End · Open to Work
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Imohalfreddev&color=0969da&style=flat-square&label=PROFILE+VIEWS)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0969da?style=flat-square&logo=vercel&logoColor=white)](https://imoh-portfolio.vercel.app)
