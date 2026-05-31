@@ -1,4 +1,3 @@
-<!-- Header -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0969da&height=200&section=header&text=Alfred%20Imoh&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=22&descAlignY=58&descColor=a5c8ff" width="100%" />
@@ -21,7 +20,7 @@ Self-taught full-stack engineer with **2+ years** of hands-on experience buildin
 
 Over the past 2+ years I've shipped products across **SaaS**, **automotive eCommerce**, and **lead generation**. I own everything from API design and database modelling to containerization with Docker and deployment on Vercel and Render.
 
-I work across the full stack with React, Node.js, Express.js, FastAPI, PostgreSQL, and MongoDB, and use Tailwind CSS to build responsive, polished interfaces that users actually enjoy. I'm a fast learner who adapts quickly to any language or stack a project requires.
+I work across the full stack with React, Node.js, Express.js, FastAPI, PostgreSQL, and MongoDB, and use Tailwind CSS to build responsive, polished interfaces that users actually enjoy. I am a fast learner who adapts quickly to any language or stack a project requires.
 
 > **Currently open to new opportunities. Let's build something great together.**
 
@@ -44,7 +43,7 @@ I work across the full stack with React, Node.js, Express.js, FastAPI, PostgreSQ
 ![Python](https://img.shields.io/badge/Python-0969da?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0969da?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**Database & DevOps**
+**Database and DevOps**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0969da?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0969da?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -72,14 +71,14 @@ I work across the full stack with React, Node.js, Express.js, FastAPI, PostgreSQ
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Work-0969da?style=for-the-badge)](https://imoh-portfolio.vercel.app)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Work-0969da?style=for-the-badge&logo=vercel&logoColor=white)](https://imoh-portfolio.vercel.app)
+&nbsp;
 <a href="https://www.linkedin.com/in/imoh-alfred-99a4a8258">
   <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0969da?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://x.com/Alfred_Imoh">
-  <img src="https://img.shields.io/badge/X_(Twitter)-Follow_me-0969da?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/X-Follow_me-0969da?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://t.me/Imohalfreddev">
@@ -92,9 +91,7 @@ I work across the full stack with React, Node.js, Express.js, FastAPI, PostgreSQ
 
 <div align="center">
 
-```
-// available for hire · open to full-time · remote-friendly
-```
+`available for hire · open to full-time · remote-friendly`
 
 </div>
 
