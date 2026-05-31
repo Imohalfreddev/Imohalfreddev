@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0969da&height=200&section=header&text=Alfred%20Imoh&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=22&descAlignY=58&descColor=a5c8ff" width="100%" />
 
-### `$ who am i` → Full Stack Developer · Self-Taught · End-to-End · Open to Work
+### `$ whoami` → Full Stack Developer · Self-Taught · End-to-End · Open to Work
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Imohalfreddev&color=0969da&style=flat-square&label=PROFILE+VIEWS)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0969da?style=flat-square&logo=vercel&logoColor=white)](https://imoh-portfolio.vercel.app)
@@ -17,13 +17,13 @@
 
 ## `// about.me`
 
-Self-taught full-stack engineer with **2+ years** of hands-on experience building modern, end-to-end web applications. I started from **zero** — learning by shipping real products — and that foundation means I understand every layer of the stack.
+Self-taught full-stack engineer with **2+ years** of hands-on experience building modern, end-to-end web applications. I started from **zero**, learning by shipping real products, and that foundation means I understand every layer of the stack.
 
-Over the past 2+ years I've shipped products across **SaaS**, **automotive eCommerce**, and **lead generation**, owning everything from API design and database modelling to containerization with Docker and deployment on Vercel and Render.
+Over the past 2+ years I've shipped products across **SaaS**, **automotive eCommerce**, and **lead generation**. I own everything from API design and database modelling to containerization with Docker and deployment on Vercel and Render.
 
-I work across the full stack — React, Node.js, Express.js, FastAPI, PostgreSQL, and MongoDB — and use Tailwind CSS to build responsive, polished interfaces that users actually enjoy. I'm a fast learner who adapts quickly to any language or stack a project requires.
+I work across the full stack with React, Node.js, Express.js, FastAPI, PostgreSQL, and MongoDB, and use Tailwind CSS to build responsive, polished interfaces that users actually enjoy. I'm a fast learner who adapts quickly to any language or stack a project requires.
 
-> **Currently open to new opportunities — let's build something great together.**
+> **Currently open to new opportunities. Let's build something great together.**
 
 ---
 
